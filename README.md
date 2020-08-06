@@ -4,7 +4,9 @@ A repository to store and host static JSON data, mostly for Android practicum su
 ## Naming Convention
 
 **AAAAAA-TITLE.json**, where:
+
 `AAAA` => Case Code (e.g O202-MOBI6006-RM01-00)
+
 `TITLE` => the Title of the case (e.g DotaMarketplace)
 
 Example:
