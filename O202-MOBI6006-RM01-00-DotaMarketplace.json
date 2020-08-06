@@ -1,0 +1,37 @@
+[
+	{
+	  "name": "Inscribed Demon Eater (Arcana Shadow Fiend)",
+	  "price": 263300,
+	  "stock": 515,
+	  "latitude": 14.604847,
+	  "longitude": 13.886719
+	},
+	{
+	  "name": "Blades of Voth Domosh (Arcana Legion Commander)",
+	  "price": 300300,
+	  "stock": 4,
+	  "latitude": 8.233237,
+	  "longitude": 47.329102
+	},
+	{
+	  "name": "Maw of Eztzhok (Immortal TI7 Bloodseeker)",
+	  "price": 5500,
+	  "stock": 12,
+	  "latitude": 36.597889,
+	  "longitude": -94.921875
+	},
+	{
+	  "name": "Chaos Fulcrum (Immortal TI7 Chaos Knight)",
+	  "price": 3500,
+	  "stock": 844,
+	  "latitude": 61.606396,
+	  "longitude": 253.828125
+	},
+	{
+	  "name": "Bitter Lineage (Immortal TI7 Troll Warlord)",
+	  "price": 49700,
+	  "stock": 4,
+	  "latitude": 60.930432,
+	  "longitude": -221.484375
+	},
+]

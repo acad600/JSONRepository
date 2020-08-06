@@ -1,0 +1,25 @@
+{
+  "markers": [
+    {
+      "name": "BlueDoll Anggrek",
+      "location": {
+        "lat": -6.201733,
+        "lng": 106.781592
+      }
+    },
+    {
+      "name": "BlueDoll Syahdan",
+      "location": {
+        "lat": -6.200101,
+        "lng": 106.785481
+      }
+    },
+    {
+      "name": "BlueDoll Kijang",
+      "location": {
+        "lat": -6.193798,
+        "lng": 106.788164
+      }
+    }
+  ]
+}
