@@ -9,4 +9,4 @@ A repository to store and host static JSON data, mostly for Android practicum su
 
 `TITLE` => the Title of the case (e.g DotaMarketplace)
 
-Result in `O202-MOBI6006-RM01-00-DotaMarketplace.json`
+The result should be `O202-MOBI6006-RM01-00-DotaMarketplace.json`
