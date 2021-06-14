@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "title": "Dawn of the Planet of the Apes",
+      "release_year": 2014,
+      "rating": 8.3
+    },
+    {
+      "title": "Wiro Sableng",
+      "release_year": 2018,
+      "rating": 10
+    },
+    {
+      "title": "The Avengers Infinity Wars",
+      "release_year": 2016,
+      "rating": 9.6
+    },
+    {
+      "title": "What Happened to Monday",
+      "release_year": 2017,
+      "rating": 8.8
+    },
+    {
+      "title": "Stranger Things",
+      "release_year": 2016,
+      "rating": 9.7
+    },
+    {
+      "title": "Daredevil",
+      "release_year": 2015,
+      "rating": 9.9
+    },
+    {
+      "title": "Jessica Jones",
+      "release_year": 2015,
+      "rating": 8.9
+    },
+    {
+      "title": "The Punisher",
+      "release_year": 2017,
+      "rating": 8.1
+    }
+  ]
+}
